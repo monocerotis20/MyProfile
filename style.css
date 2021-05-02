@@ -1,0 +1,38 @@
+#Munji {
+  color: orchid;
+}
+.container {
+  width: 800px;
+}
+#profile_title {
+  border-left: 5px solid red;
+}
+#link_title {
+  border-left: 5px solid yellow;
+}
+#schedule_title {
+  border-left: 5px solid steelblue;
+}
+#todo_title {
+  border-left: 5px solid green;
+}
+.time_table {
+  background: orange;
+  text-align: center;
+}
+table {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 0 10px;
+  border: 2px solid black;
+}
+th,
+td {
+  border: 1px solid #444444;
+  padding: 10px;
+}
+li {
+  margin: 5px;
+}
